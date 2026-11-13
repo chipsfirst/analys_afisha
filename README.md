@@ -1,5 +1,10 @@
 # Яндекс.Афиша: исследовательский анализ данных
 
+## Summary (EN)
+
+Exploratory analysis of Yandex.Afisha ticket orders (June–October 2024): cleaning, seasonality, regional and operator breakdowns, and two hypotheses about mobile vs desktop users with effect-size estimates. Python, pandas, matplotlib, SciPy.
+
+
 Учебный проект по анализу заказов билетов сервиса Яндекс.Афиша за период с 1 июня по 31 октября 2024 года: динамика спроса, структура афиши, регионы, билетные операторы и площадки, а также проверка двух гипотез о поведении пользователей мобильных и десктопных устройств.
 
 **Автор:** Карташов Владимир
