@@ -63,3 +63,7 @@ jupyter lab yandex_afisha_eda.ipynb
 ## Стек
 
 Python 3.11, pandas, numpy, matplotlib, seaborn, scipy. Проект учебный, лицензия не задана.
+
+## Лицензия
+
+Код и материалы — [MIT](LICENSE). Данные — учебный датасет Яндекс.Практикума, права принадлежат источнику.
